@@ -1,5 +1,5 @@
 # ap-Reminder-app
-Code for a simple iOS app, which allows the user to choose a certain time interval in which the program will send a self-repeating local notification.
+Code for a simple iOS app which allows the user to choose a certain time interval in which the program will send a self-repeating local notification.
 
 The app uses UIPickerView from the UIKit to allow users to pick a time interval. 
 The default intervals are 1 - 10 minutes, but this is adjustable. 
